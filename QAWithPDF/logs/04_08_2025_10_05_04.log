@@ -1,0 +1,6 @@
+[2025-04-08 10:05:13,007] 17 root - INFO - data loading started...
+[2025-04-08 10:05:15,447] 20 root - INFO - data loading completed...
+[2025-04-08 10:05:16,002] 26 root - INFO - Initializing Gemini embedding model
+[2025-04-08 10:05:16,378] 42 root - INFO - Creating vector store index
+[2025-04-08 10:05:21,886] 50 root - INFO - Persisting storage context
+[2025-04-08 10:05:21,926] 53 root - INFO - Creating query engine
